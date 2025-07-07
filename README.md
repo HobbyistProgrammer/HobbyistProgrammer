@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benton Le</h1>
 <h3 align="center">Turning coffee into code daily</h3>
 
-- 🔭 I’m currently working on [PassForge](https://github.com/HobbyistProgrammer/PassForge)
+- 🔭 I’m currently working on [PassForge](https://github.com/HobbyistProgrammer/PassForge), a simple password manager app that is fully local.
 
 - 🌱 I’m currently improving on **frameworks like React, Vue.js, and improving my problem-solving skills through LeetCode.**
 
